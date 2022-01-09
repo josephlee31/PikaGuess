@@ -11,8 +11,8 @@ This game randomly selects from a database of over 450+ Pokémon, in which the u
 
 Once a certain number of attempts have passed and the user has not completed the puzzle, the program will begin to provide hints to better identify the selected Pokémon. Hints include the regional origin of the Pokémon (ex. [Pikachu](https://bulbapedia.bulbagarden.net/wiki/Pikachu_(Pok%C3%A9mon)) is from the Kanto region), or the Pokémon's typing (ex. Pikachu is an Electric-type). 
 
-![Alt Text](assets/READMEImages/hint_1.PNG)
+![alt text](assets/READMEImages/hint_1.PNG)
 
 If the player completes the puzzle within the allotted number of attempts, the player will begin a streak. The streak is incremented by 1 everytime the player successfully completes a puzzle. However, if the player fails a puzzle, their streak will reset. The goal is to obtain the highest number of streaks possible within a single run. 
 
-![Alt Text](assets/READMEImages/conclusion.PNG)
+![alt text](assets/READMEImages/conclusion.PNG)
