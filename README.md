@@ -9,7 +9,7 @@ This game randomly selects from a database of over 450+ Pokémon, in which the u
 ![alt text](assets/READMEImages/regionselection.PNG) 
 ![alt text](assets/READMEImages/gameprogression.PNG) 
 
-Once a certain number of attempts have passed and the user has not completed the puzzle, the program will begin to provide hints to better identify the selected Pokémon. Hints include the regional origin of the Pokémon (ex. Pikachu is from the Kanto region), or the Pokémon's typing (ex. Pikachu is an Electric-type). 
+Once a certain number of attempts have passed and the user has not completed the puzzle, the program will begin to provide hints to better identify the selected Pokémon. Hints include the regional origin of the Pokémon (ex. [Pikachu](https://bulbapedia.bulbagarden.net/wiki/Pikachu_(Pok%C3%A9mon)) is from the Kanto region), or the Pokémon's typing (ex. Pikachu is an Electric-type). 
 
 ![Alt Text](assets/READMEImages/hint_1.PNG)
 
