@@ -1,6 +1,6 @@
 # PikaGuess
 
-PikaGuess is a simple hangman game implemented in Python. Based on the popular video game series Pokémon, PikaGuess obtains Pokémon data (ex. name, abilities, typing, region) from text files (located in "assets" folder) and the pypokedex library. 
+PikaGuess is a simple hangman game implemented in Python. Based on the popular video game series Pokémon, PikaGuess obtains Pokémon data (ex. name, abilities, typing, region) from text files (located in "assets" folder) and the [pypokedex library](https://github.com/arnavb/pypokedex). 
 
 ### Game Rules
 This game randomly selects from a database of over 450+ Pokémon, in which the user must guess the name of the selected Pokémon in a limited number of attempts. The user will receive a certain number of allowed attempts (depending on difficulty) to guess the name of that Pokémon. 
